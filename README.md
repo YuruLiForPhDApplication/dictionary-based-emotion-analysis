@@ -1,1 +1,1 @@
-# dictionary_based-emotion-analysis
+# dictionary-based-emotion-analysis
