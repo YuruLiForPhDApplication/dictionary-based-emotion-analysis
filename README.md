@@ -9,4 +9,4 @@ After that, each document corresponds to a positive emotional word frequency and
 
 Note: The following diagram is only a sketch of the workflow produced with KNIME, and the specific analysis requires Python to write the relevant code. Syntactic dependency analysis and emotional level analysis need to be implemented in Python code. There are no relevant nodes in the schematic diagram. 
 
-![dictionary-based approach](dictionary-based-emotion-analysis/dictionary-based method.jpg )
+![YuruLi](https://github.com/YuruLiForPhDApplication/dictionary-based-emotion-analysis/blob/master/dictionary-based%20method.jpg)
